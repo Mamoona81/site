@@ -1130,7 +1130,7 @@ body.offcanvas {
     margin-bottom: 2em;
     display: block; }
     .contact-info {
-      text-align: center;
+      text-align: -webkit-left;
       margin: 20px 0;
   }
   
