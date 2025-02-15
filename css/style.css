@@ -102,7 +102,7 @@ figure {
     float: left !important;
     padding-top: 3em !important;
     position: fixed !important;
-    z-index: 1001!important;
+    z-index: 1001 !important;
 }
   float: left;
   width: 300px;
@@ -1516,4 +1516,4 @@ body.offcanvas {
   padding: 10px !important; }
 
 .js .animate-box {
-  opacity: 0; }
+  opacity: 1; }
