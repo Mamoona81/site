@@ -1481,11 +1481,8 @@ body.offcanvas {
       flex-wrap: wrap;
       justify-content: space-between;
   }
-  .row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
+  
+
 .row-bottom-padded-lg {
   padding-bottom: 1em; }
   @media screen and (max-width: 768px) {
