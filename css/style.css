@@ -35,7 +35,7 @@ p {
   margin-bottom: 1.5em; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1e5044
+  color: #777777
   ;
   font-family: "-apple-system", Arial, Arial, Helvetica, 'Times New Roman', sans-serif ;
   padding: top 10px; ;
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 .tagline{
   font-family: 'Times New Roman';
   font-style: italic;
-  color: #cec393;
+  color: #d5afda;
   font-size: medium;
 }
 .image {
@@ -97,6 +97,9 @@ figure {
 #colorlib-aside {
   padding-top: 3em;
   padding-bottom: 40px;
+  
+    background-color: ##593971;
+}
   float: left;
   width: 300px;
   position: fixed;
@@ -138,7 +141,7 @@ figure {
     #colorlib-aside #colorlib-logo a {
       display: block;
       text-align: center;
-      color:#0000EE;
+      color: #ffffff;
       padding-right: .3em; }
   #colorlib-aside #colorlib-main-menu {
     display: block;
