@@ -138,7 +138,7 @@ figure {
     #colorlib-aside #colorlib-logo a {
       display: block;
       text-align: center;
-      color:#cec393;
+      color:#000000;
       padding-right: .3em; }
   #colorlib-aside #colorlib-main-menu {
     display: block;
@@ -162,7 +162,7 @@ figure {
         text-transform: capitalize;
         letter-spacing: 1px; }
         #colorlib-aside #colorlib-main-menu ul li a {
-          color: rgba(205, 195, 147, 0.7);
+          color: rgba(0, 0, 0, 1);
           text-decoration: none;
           position: relative;
           padding: 10px 0;
@@ -177,7 +177,7 @@ figure {
             bottom: 7px;
             left: 0;
             right: 0;
-            background-color: #cec393;
+            background-color: #FFFFFF;
             visibility: hidden;
             -webkit-transform: scaleX(0);
             -moz-transform: scaleX(0);
