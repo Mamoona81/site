@@ -110,7 +110,7 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
-      width: 300px;
+      width: 400px;
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
       -ms-transform: translateX(-300px);
@@ -138,7 +138,8 @@ figure {
     margin-bottom: .5em;
     display: block;
     width: 100%; }
-    #colorlib-aside #colorlib-logo a {
+    
+#colorlib-aside #colorlib-logo a {
       display: block;
       text-align: center;
       color: #ffffff;
