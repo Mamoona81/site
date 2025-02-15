@@ -246,7 +246,7 @@ figure {
             color: #2c98f0; }
 
 .container-wrap {
-  max-width: 1170px;
+  max-width: 100%;
   margin: 50 auto; }
 
 #colorlib-main {
@@ -415,7 +415,7 @@ body.offcanvas {
   padding-top: .5em;
   padding-bottom: 1em;
   clear: both;
-  width: 90%;
+  width: 100%;
   display: block; }
   @media screen and (max-width: 768px) {
     .colorlib-experience,
