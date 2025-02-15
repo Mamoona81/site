@@ -98,6 +98,11 @@ figure {
   padding-top: 3em;
   padding-bottom: 40px;
   background-color:#593971;
+  width: 300px;
+    float: left;
+    padding-top: 3em;
+    position: fixed;
+    z-index: 1001;
 }
   float: left;
   width: 300px;
