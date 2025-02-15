@@ -50,13 +50,13 @@ h1, h2, h3, h4, h5, h6 {
   h4{ padding-top: 10px;
   font-size: medium;
     font-weight: bold;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 .tagline{
   font-family: 'Times New Roman';
   font-style: italic;
   color:#2c98f0;
-  font-size: large;
+  font-size: medium;
 }
 .image {
     display: block;
