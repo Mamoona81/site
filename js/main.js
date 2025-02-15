@@ -207,7 +207,7 @@
 
 
 
-	var sliderMain = function() {
+	/*var sliderMain = function() {
 		
 	  	$('#colorlib-hero .flexslider').flexslider({
 			animation: "fade",
@@ -224,11 +224,12 @@
 					$('.slider-text').removeClass('animated fadeInUp');
 					$('.flex-active-slide').find('.slider-text').addClass('animated fadeInUp');
 				}, 500);
-			}
+			} 
 
 	  	});
 
-	};
+	}; 
+ */
 
 	var stickyFunction = function() {
 
