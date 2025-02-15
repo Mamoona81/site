@@ -1492,8 +1492,9 @@ body.offcanvas {
     width: 100%; } }
 .row {
       display: flex;
+      padding-left: 30px;
       flex-wrap: wrap;
-      justify-content: space-between;
+      
   }
   
 
