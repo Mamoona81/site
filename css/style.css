@@ -95,14 +95,14 @@ figure {
   position: relative; }
 
 #colorlib-aside {
-  padding-top: 3em;
-  padding-bottom: 40px;
-  background-color:#593971;
-  width: 300px;
-    float: left;
-    padding-top: 3em;
-    position: fixed;
-    z-index: 1001;
+   padding-top: 3em !important;
+  padding-bottom: 40 px !important;
+  background-color:#593971 !important;
+  width: 300px !important;
+    float: left !important;
+    padding-top: 3em !important;
+    position: fixed !important;
+    z-index: 1001!important;
 }
   float: left;
   width: 300px;
