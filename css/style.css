@@ -47,11 +47,16 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 15px;
     letter-spacing: normal;
   }
-  h4{ padding-top: 10px;
+  h4{ 
+    padding-top: 10px;
   font-size: medium;
     font-weight: bold;
-    padding-left: 20px;
+  
 }
+h5{
+  font-size:medium;
+}
+  
 .tagline{
   font-family: 'Times New Roman';
   font-style: italic;
