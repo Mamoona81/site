@@ -102,8 +102,8 @@ figure {
   background: #2c98f0; }
 
 ::selection {
-  color: #fff;
-  background: #eef2f4; }
+  color: #000000;
+  background: #FFFFFF; }
 
 #colorlib-page {
   width: 100%;
