@@ -549,9 +549,9 @@ body.offcanvas {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: "Quicksand", Arial, sans-serif;
-  background-color: #1e5044
+  background-color: #1a325d
   ;
-  color: #cec393;
+  color: #db9428;
   position: relative;
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
@@ -965,6 +965,7 @@ body.offcanvas {
           display: flex;
           align-items: flex-start;
           margin-top: 20px;
+          gap: 50px;
 }
 .project-image {
   width: 150px;
