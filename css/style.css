@@ -16,7 +16,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: rgba(0, 0, 0, 0.7); }
+  color: rgba(0, 0, 0, 83%); }
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } }
@@ -37,11 +37,11 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #777777
+  color: #1a325d
   ;
-  font-family: "-apple-system", Arial, Arial, Helvetica, 'Times New Roman', sans-serif ;
+  font-family: "-apple-system", Helvetica, Arial, Arial, 'Times New Roman', sans-serif ;
   padding: top 10px; ;
-  font-weight: 400;
+  <!-- font-weight: 400; -->
   margin: 0 0 30px 0; }
   h2{
     padding-left: 15px;
@@ -453,15 +453,15 @@ body.offcanvas {
   position: relative; }
 
 .colorlib-heading {
- font-size: 22px;
+ font-size: 20px;
   margin-bottom: 1em;
   font-weight: 800;
-  text-transform: capitalize;
+  <!-- text-transform: capitalize; -->
   letter-spacing: 2px;
-  line-height: 1.8;
+  <!-- line-height: 1.8; -->
   position: relative;
   text-align: left;
-  padding: 3em 0 1em 0;  }
+  <!-- padding: 3em 0 1em 0; -->  }
   .colorlib-heading span {
     display: block; }
   @media screen and (max-width: 768px) {
