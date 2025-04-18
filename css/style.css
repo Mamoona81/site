@@ -963,8 +963,8 @@ body.offcanvas {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
         font-size: 28px; } }
 .project-container {
-          display: flex;
-          align-items: flex-start;
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
           margin-top: 20px;
           gap: 50px;
 }
