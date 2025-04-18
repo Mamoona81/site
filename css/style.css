@@ -130,7 +130,11 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
-      width: 400px;
+      position: relative !important;
+      width: 400px !important;
+      float: none !important;
+      z-index: 1 !important;
+    height: auto !important
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
       -ms-transform: translateX(-300px);
@@ -263,8 +267,8 @@ figure {
             color: #2c98f0; }
 
 .container-wrap {
-  max-width: 100%;
-  margin: 50 auto; }
+  display: block !important;
+   }
 
 #colorlib-main {
   width: calc(100% - 300px);
@@ -274,8 +278,10 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 768px) {
     #colorlib-main {
-      width: 100%;
-      padding: 0 1em; } }
+      margin-left: 0 !important;
+    width: 100% !important;
+      
+      } }
 
 #colorlib-hero {
   min-height: 500px;
