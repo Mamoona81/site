@@ -546,7 +546,15 @@ body.offcanvas {
     position: relative;
     padding-top: 15px; /* Adjust the space between text and image as needed */
   }
+a.image-text-container {
+  padding: 16px; /* Adjust this value as needed */
+  /* Ensure the image scales down to fit the new padded area */
+}
 
+a.image-text-container img {
+  max-width: 100%;
+  height: auto;
+}
 .panel-heading a {
   padding: 20px 25px;
   display: block;
